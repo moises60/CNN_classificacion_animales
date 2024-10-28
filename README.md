@@ -1,5 +1,7 @@
 # Clasificación de Imágenes de Animales con Redes Neuronales Convolucionales (CNN)
 
+![Portada](assets/portada.png)
+
 ## Introducción al Proyecto
 
 Este proyecto tiene como objetivo desarrollar una **red neuronal convolucional (CNN)** para clasificar imágenes de animales en tres categorías: **gatos**, **perros** y **animales salvajes**. Utilizando técnicas de **aprendizaje profundo**, el modelo es capaz de reconocer y clasificar imágenes con alta precisión.
@@ -75,7 +77,7 @@ Sigue los siguientes pasos para configurar y ejecutar el proyecto en tu entorno 
    ```
 
    - Se abrirá una ventana donde podrás cargar imágenes y ver las predicciones del modelo.
-   Epoch 1/60
+    Epoch 1/60
     457/457 ━━━━━━━━━━━━━━━━━━━━ 68s 147ms/step - accuracy: 0.4787 - loss: 0.9893 - val_accuracy: 0.6943 - val_loss: 0.6861
     Epoch 2/60
     457/457 ━━━━━━━━━━━━━━━━━━━━ 0s 301us/step - accuracy: 0.7188 - loss: 0.7152 - val_accuracy: 0.9286 - val_loss: 0.2313
@@ -190,6 +192,7 @@ Sigue los siguientes pasos para configurar y ejecutar el proyecto en tu entorno 
     457/457 ━━━━━━━━━━━━━━━━━━━━ 60s 132ms/step - accuracy: 0.9594 - loss: 0.1132 - val_accuracy: 0.9715 - val_loss: 0.0870
     457/457 ━━━━━━━━━━━━━━━━━━━━ 60s 132ms/step - accuracy: 0.9594 - loss: 0.1132 - val_accuracy: 0.9715 - val_loss: 0.0870
     47/47 ━━━━━━━━━━━━━━━━━━━━ 2s 43ms/step - accuracy: 0.9622 - loss: 0.1054
+     
     Pérdida en validación: 0.09582039713859558
     Exactitud en validación: 0.9666666388511658
     47/47 ━━━━━━━━━━━━━━━━━━━━ 2s 44ms/step
