@@ -77,17 +77,19 @@ Sigue los siguientes pasos para configurar y ejecutar el proyecto en tu entorno 
    ```
 
    - Se abrirá una ventana donde podrás cargar imágenes y ver las predicciones del modelo.
-    -Epoch 1/60
-    -457/457 ━━━━━━━━━━━━━━━━━━━━ 68s 147ms/step - accuracy: 0.4787 - loss: 0.9893 - val_accuracy: 0.6943 - val_loss: 0.6861
-    -Epoch 2/60
-    -457/457 ━━━━━━━━━━━━━━━━━━━━ 0s 301us/step - accuracy: 0.7188 - loss: 0.7152 - val_accuracy: 0.9286 - val_loss: 0.2313
-    -Epoch 3/60
-    -457/457 ━━━━━━━━━━━━━━━━━━━━ 60s 132ms/step - accuracy: 0.6842 - loss: 0.7114 - val_accuracy: 0.6834 - val_loss: 0.7576
-    -Epoch 4/60
-    -457/457 ━━━━━━━━━━━━━━━━━━━━ 0s 68us/step - accuracy: 0.6875 - loss: 0.6734 - val_accuracy: 0.7857 - val_loss: 0.7696
-    -Epoch 5/60
-    -457/457 ━━━━━━━━━━━━━━━━━━━━ 60s 131ms/step - accuracy: 0.7482 - loss: 0.5900 - val_accuracy: 0.8302 - val_loss: 0.4703
-    -Epoch 6/60
+   Epoch 1/60
+   457/457 ━━━━━━━━━━━━━━━━━━━━ 68s 147ms/step - accuracy: 0.4787 - loss: 0.9893 - val_accuracy: 0.6943 - val_loss: 0.6861
+     
+   Epoch 2/60
+   457/457 ━━━━━━━━━━━━━━━━━━━━ 0s 301us/step - accuracy: 0.7188 - loss: 0.7152 - val_accuracy: 0.9286 - val_loss: 0.2313
+   
+   Epoch 3/60
+   457/457 ━━━━━━━━━━━━━━━━━━━━ 60s 132ms/step - accuracy: 0.6842 - loss: 0.7114 - val_accuracy: 0.6834 - val_loss: 0.7576
+   Epoch 4/60
+   457/457 ━━━━━━━━━━━━━━━━━━━━ 0s 68us/step - accuracy: 0.6875 - loss: 0.6734 - val_accuracy: 0.7857 - val_loss: 0.7696
+   Epoch 5/60
+   457/457 ━━━━━━━━━━━━━━━━━━━━ 60s 131ms/step - accuracy: 0.7482 - loss: 0.5900 - val_accuracy: 0.8302 - val_loss: 0.4703
+   Epoch 6/60
     -457/457 ━━━━━━━━━━━━━━━━━━━━ 0s 30us/step - accuracy: 0.7500 - loss: 0.5673 - val_accuracy: 0.8214 - val_loss: 0.6669
     -Epoch 7/60
     -457/457 ━━━━━━━━━━━━━━━━━━━━ 60s 132ms/step - accuracy: 0.7936 - loss: 0.5066 - val_accuracy: 0.8383 - val_loss: 0.4336
