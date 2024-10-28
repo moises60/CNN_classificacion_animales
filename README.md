@@ -251,7 +251,7 @@ Sigue los siguientes pasos para configurar y ejecutar el proyecto en tu entorno 
     Pérdida en validación: 0.09582039713859558
    
     Exactitud en validación: 0.9666666388511658
-    47/47 ━━━━━━━━━━━━━━━━━━━━ 2s 44ms/step
+   
 
 ## Descripción del Código
 
