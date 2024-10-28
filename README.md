@@ -266,10 +266,6 @@ El proyecto está estructurado de la siguiente manera:
 ```
 animal-face-classification/
 ├── assets/
-│   ├── grafica_exactitud.png
-│   ├── grafica_perdida.png
-│   ├── interfaz.png
-│   └── matriz_confusion.png
 ├── dataset/
 │   ├── train/
 │   │   ├── Cat/
